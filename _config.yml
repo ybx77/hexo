@@ -1,0 +1,19 @@
+
+
+
+daodao_plus:
+  priority: 0 
+  enable: 
+    page: true 
+    card: true 
+  filter: 
+  url: https://www.040813.xyz 
+  path: daodaoplus
+  front_matter: 
+    title: 闲话板砖
+    comments: true
+  CDN: 
+    dd_js: https://cdn.jsdelivr.net/npm/daodaoplus@1.1.7/static/js/index.min.js 
+    dd_css: https://cdn.jsdelivr.net/npm/daodaoplus@1.1.7/static/css/index.min.css
+    js: https://cdn.jsdelivr.net/npm/hexo-daodao-plus@2.2.4/dist/js/main.min.js 
+    css: https://cdn.jsdelivr.net/npm/hexo-daodao-plus@2.2.4/dist/css/main.min.css
